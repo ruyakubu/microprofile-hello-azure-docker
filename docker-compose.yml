@@ -3,4 +3,4 @@ services:
   webapp:
     build:
       context: .
-      dockerfile: Dockerfile
+      dockerfile: ./Dockerfile
